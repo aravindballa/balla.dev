@@ -1,0 +1,16 @@
+{
+  "name": "balla.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "baseUrl": "https://balla.dev",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "keywords": [],
+  "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-shortener": "^1.0.4"
+  }
+}
