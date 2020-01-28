@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "shorten": "cli.js"
+  },
   "baseUrl": "https://balla.dev",
   "scripts": {
     "shorten": "netlify-shortener"
